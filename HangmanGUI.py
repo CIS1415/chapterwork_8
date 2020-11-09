@@ -6,8 +6,10 @@ Date Modified : 11/06/20
 Version :       1.0
 Purpose:
 
-    Simple GUI interface text editor in Python
-    Type out a document, and save it with buttons.
+    Hangman game with GUI using breezypythongui
+    User can enter in single characters to guess letters in a word
+    If they get 6 unique incorrect guesses, they lose.
+    If they complete the word, the win.
 
 ___________________________________________________________________
 -------------------------------------------------------------------"""
