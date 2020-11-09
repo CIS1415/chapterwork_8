@@ -29,7 +29,6 @@ class window(EasyFrame):
                 "window", "chrome", "world", "minnesota", "diamond"]
         self.guessed = []
         self.chosenWord = random.choice(wordPool)
-        print(self.chosenWord)
         self.newGuess = ""
         self.lives = 6
         self.endGame = False
